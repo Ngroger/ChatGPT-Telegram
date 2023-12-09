@@ -1,0 +1,2 @@
+name = chatGPT0004Bot
+token = 6954675355:AAF1Cd86awW_cT1olrbyoeDOtuGmqYBGncg
